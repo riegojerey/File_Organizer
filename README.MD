@@ -1,2 +1,2 @@
-# This is a simple sorting file. 
+A simple sorting file.
 
